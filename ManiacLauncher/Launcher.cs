@@ -12,32 +12,44 @@ using Microsoft.Win32;
 
 namespace ManiacLauncher
 {
-    public partial class Window : Form
+    public partial class Launcher : Form
     {
-        public Window()
+        public Launcher()
         {
             InitializeComponent();
-
-            // Set the background image of the form
-            string assetsFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "assets");
-            string maniaBgFilePath = Path.Combine(assetsFolderPath, "maniabg.png");
-            if (File.Exists(maniaBgFilePath))
-            {
-                this.BackgroundImage = Image.FromFile(maniaBgFilePath);
-            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string steamPath = (string)Registry.GetValue(@"HKEY_LOCAL_MACHINE\SOFTWARE\Valve\Steam", "InstallPath", null);
-            if (!string.IsNullOrEmpty(steamPath))
+            string sonicManiaPath = @"C:\Program Files (x86)\Steam\steamapps\common\Sonic Mania\SonicMania.exe";
+            if (File.Exists(sonicManiaPath))
             {
-                string sonicManiaPath = Path.Combine(steamPath, @"steamapps\common\Sonic Mania\sonicmania.exe");
                 System.Diagnostics.Process.Start(sonicManiaPath);
             }
             else
             {
-                MessageBox.Show("Steam is not installed on this computer.");
+                // This is a certified hood classic!
+                MessageBox.Show("Sonic Mania is not installed on this computer.");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // His ass is not quitting!!
+            Application.Exit();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string ManiaModManagerPath = @"C:\Program Files (x86)\Steam\steamapps\common\Sonic Mania\ManiaModManager.exe";
+            if (File.Exists(ManiaModManagerPath))
+            {
+                System.Diagnostics.Process.Start(ManiaModManagerPath);
+            }
+            else
+            {
+                // Aw yeah, this isn't happening!
+                MessageBox.Show("Mania Mod Manager is not installed");
             }
         }
     }
