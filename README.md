@@ -6,6 +6,10 @@
 
 * Like I said this is just a simple project I wanted to make and that's all really :P
 
+# Requirements
+
+* Visual Studio 2019 with the Forms Option
+
 # Credits
 
 * [SnesFX](https://twitter.com/SnesFX) - Creator of the silly launcher
