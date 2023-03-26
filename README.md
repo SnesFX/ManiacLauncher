@@ -10,6 +10,10 @@
 
 * Visual Studio 2019 with the Forms Option
 
+# Note
+
+* I probably won't update this regulary because I have other projects to work on, and well this was just a old project so uhh yeah.
+
 # Credits
 
 * [SnesFX](https://twitter.com/SnesFX) - Creator of the silly launcher
