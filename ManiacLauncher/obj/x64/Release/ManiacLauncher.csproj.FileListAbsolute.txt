@@ -1,0 +1,10 @@
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\bin\x64\Release\ManiacLauncher.exe.config
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\bin\x64\Release\ManiacLauncher.exe
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\bin\x64\Release\ManiacLauncher.pdb
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.csproj.AssemblyReference.cache
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.Window.resources
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.Properties.Resources.resources
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.csproj.GenerateResource.cache
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.csproj.CoreCompileInputs.cache
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.exe
+C:\Users\james\Downloads\Coding Stuff\My Projects\ManiacLauncher\ManiacLauncher\obj\x64\Release\ManiacLauncher.pdb

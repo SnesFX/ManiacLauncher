@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManiacLauncher", "ManiacLauncher\ManiacLauncher.csproj", "{E78634D4-187B-42CE-8446-5D8A3D35DA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Dev|Any CPU = Dev|Any CPU
+		Dev|x64 = Dev|x64
+		Dev|x86 = Dev|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Debug|x64.ActiveCfg = Debug|x64
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Debug|x64.Build.0 = Debug|x64
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Debug|x86.ActiveCfg = Debug|x86
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Debug|x86.Build.0 = Debug|x86
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Dev|x64.ActiveCfg = Dev|x64
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Dev|x64.Build.0 = Dev|x64
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Dev|x86.ActiveCfg = Dev|x86
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Dev|x86.Build.0 = Dev|x86
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Release|x64.ActiveCfg = Release|x64
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Release|x64.Build.0 = Release|x64
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Release|x86.ActiveCfg = Release|x86
+		{E78634D4-187B-42CE-8446-5D8A3D35DA14}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6121EEE2-C7C5-4CE0-B663-701F0FA676B8}
+	EndGlobalSection
+EndGlobal
